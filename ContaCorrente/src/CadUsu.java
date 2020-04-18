@@ -1,4 +1,11 @@
-
+/**
+ * Classe utilizada para testes gerais de um crud com java.
+ *
+ * @author Tonsig, Sérgio Luiz
+ * 
+ * @version 1.0 
+ *  
+ */
 
 import java.awt.BorderLayout;
 import java.awt.Image;
